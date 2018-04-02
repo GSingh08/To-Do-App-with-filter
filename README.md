@@ -12,11 +12,11 @@ Let's make a to do app, and let's add a filter bar up at the top.
 ## BONUS
 
  - Users want to share individual to do items with friends (hint: each to do item will need its own url)
- - Users want to display a happy message after every item has been checked
+ - Users only want to see 10 items per page (hint: build in pagination)
 
 ## SUPER BONUS
 
- - Users only want to see 10 items per page (hint: build in pagination)
+ - Users want to display a happy message after every item has been checked (hint: this will require a conditional view item and state management)
 
 ## 🚀 Your homework submission should include:
 
