@@ -11,8 +11,8 @@ Let's make a to do app, and let's add a filter bar up at the top.
 
 ## BONUS
 
- - Users want to share individual to do items with friends (hint: each to do item will need its own url)
- - Users only want to see 10 items per page (hint: build in pagination)
+ - Users want to share individual to do items with friends (hint: each to do item will need its own route)
+ - Users only want to see 10 items per page (hint: each page will need its own route)
 
 ## SUPER BONUS
 
