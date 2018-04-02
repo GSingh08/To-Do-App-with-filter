@@ -5,7 +5,7 @@ Let's make a to do app, and let's add a filter bar up at the top.
 ## Here's your mission (in the form of user stories):
 
  - Users want to add items to the to do list
- - Users want to view items that have been added to the list
+ - Users want to view the list of items that have been added to the list
  - Users want to filter the to do list by typing in text to narrow down the to dos that are displayed
 
 ## BONUS
